@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Downloaded data (re-downloaded automatically, do not commit)
+scikit_learn_data/
+nltk_data/
