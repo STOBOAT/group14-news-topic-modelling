@@ -5,7 +5,7 @@ Unsupervised topic modelling of the **20 Newsgroups** dataset (about 18,000 foru
 and **purity**. An interactive **Streamlit** app lets you explore the data, compare the models and
 predict the topic of your own text.
 
-**Live app:** https://ba7kc55rxwry8gvzb8uuam.streamlit.app/
+**Live app:** 
 
 ## Files
 
