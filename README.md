@@ -5,7 +5,7 @@ Unsupervised topic modelling of the **20 Newsgroups** dataset (about 18,000 foru
 and **purity**. An interactive **Streamlit** app lets you explore the data, compare the models and
 predict the topic of your own text.
 
-**Live app:** 
+**Live app:** https://group14-news-topic-modelling.streamlit.app/
 
 ## Files
 
@@ -14,6 +14,7 @@ predict the topic of your own text.
 | `app.py` | The Streamlit website (7 pages). |
 | `text_analytics.py` | All the logic: cleaning, TF-IDF, LDA, NMF, evaluation. |
 | `requirements.txt` | Exact library versions the project was tested with. |
+| `robustness_check.py` | Optional: re-trains LDA with several seeds and compares it with NMF. |
 
 ## Run it on your own computer
 
